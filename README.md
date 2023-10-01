@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudoauto
+- 👋 Hi, I’m @sudoautorun, an experienced software developer.
 - 👀 I’m interested in embedded software development in Linux and Android
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on any virtual remote projects
