@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudoauto
-- 👀 I’m interested in embedded software development
+- 👀 I’m interested in embedded software development in Linux and Android
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on any virtual remote projects
 - 📫 How to reach me ...
